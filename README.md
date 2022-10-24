@@ -18,7 +18,6 @@ Here are samples of a sample run of the program and how long it takes to crack t
 <hr>
 ### 5
 <img src="https://github.com/titoausten/strong-password-generator/blob/main/Screenshot_20221024-102445.jpg" />
-<hr>
-
+</p>
 ## Author
 [Tito Osadebey](https://www.linkedin.com/in/tito-osadebe)
